@@ -27,7 +27,9 @@ KIIROITORI
 2. 黑
 3. 灰
 ***
-[奇摩]<http://tw.yahoo.com>
+[奇摩](http://tw.yahoo.com)
+
+<http://tw.yahoo.com>
 
 **粗體**
 *斜體*
