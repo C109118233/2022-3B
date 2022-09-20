@@ -44,3 +44,13 @@ $scope.cookieGet = function(key){
   console.log ($scope.cookieResult);
 }
 ```
+```ruby
+def index
+puts "hello world"
+end
+```
+``` csharp
+private void index(){
+  Message.Show("hello world");
+}
+```
