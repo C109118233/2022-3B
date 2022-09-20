@@ -37,3 +37,10 @@ KIIROITORI
 |A|B|C|
 |:-|:-:|-:|
 |1|2|3|
+
+```js
+$scope.cookieGet = function(key){
+  $scope.cookieResult = $cookieStore.get(key);
+  console.log ($scope.cookieResult);
+}
+```
