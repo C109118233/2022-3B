@@ -14,3 +14,17 @@ Strikethrough uses two tildes. ~~Scratch this~~.
    ...* note 2
    *** note 3
 ***
+todo list
+2nd things
+***
+python code
+```
+
+```
+***
+javascript code
+```js
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
