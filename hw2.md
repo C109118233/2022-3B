@@ -1,5 +1,5 @@
 # PERT/CPM 圖
-![PERT/CPM 圖](PERT_Diagram.jpg "PERT/CPM 圖")
+![PERT/CPM 圖](hw2.jpg "PERT/CPM 圖")
 
 # 甘特圖
 ```mermaid
